@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zsofianacsa🏳️‍🌈
 - 😄 Pronouns: she/her
 - 🎮 A proud gamer here!
-- 💻 I’m currently learning front end development
+- 💻 I’m currently learning frontenddev
 - 📱 Love to visualize and design
 - 🐛 Fun fact: I am a biologist by default🌱 
 - 📫 You can reach me via my Linkedin (https://www.linkedin.com/in/zsofia-nacsa-9b5221199)
